@@ -55,23 +55,4 @@ Before running the project, make sure you have the following dependencies instal
 | ----------------------------------- | ----------------------------------- | ------------------------------------------- | ------------------------------------------- |
 | <img src="https://www.lifeprint.com/asl101/fingerspelling/abc-gifs/a.gif" alt="Example Image" width="200" height="200"> | <img src="https://www.lifeprint.com/asl101/fingerspelling/abc-gifs/b.gif" alt="Example Image" width="200" height="200"> | <img src="https://www.lifeprint.com/asl101/fingerspelling/abc-gifs/y.gif" alt="Example Image" width="200" height="200"> | <img src="https://www.lifeprint.com/asl101/fingerspelling/abc-gifs/f.gif" alt="Example Image" width="200" height="200"> |  
 
-
-## Future Enhancements
-
-There are several opportunities for enhancing the ASL detection model and overall system [As it is not yet Perfect and still faces issues in detecting few alphabets]. Consider the following ideas for future improvements:
-
-1. **Integration with New Datasets:** Explore additional ASL datasets to diversify the training data and improve the model's generalization to different signing styles.
-
-2. **Fine-Tuning Hyperparameters:** Experiment with different hyperparameter settings to optimize the model's performance. This may involve adjusting learning rates, batch sizes, or architecture configurations.
-
-3. **Incorporating Transfer Learning:** Investigate the potential benefits of incorporating transfer learning techniques, leveraging pre-trained models on related tasks to boost performance.
-
-4. **Real-time Feedback Mechanism:** Implement a real-time feedback mechanism to provide users with immediate guidance on improving their sign gestures, enhancing the learning experience.
-
-5. **Multi-modal Integration:** Explore the integration of additional sensor modalities, such as depth sensors or audio cues, to improve the robustness of sign detection in various environments.
-
-**This Repo can also be extended to handle video data**
-1. to detect common Hand Gestures used in Sign Language
-2. To sign words [Sequence of individual Signed Alphabets]
-
    
