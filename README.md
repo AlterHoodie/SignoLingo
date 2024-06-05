@@ -35,8 +35,8 @@ Before running the project, make sure you have the following dependencies instal
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-asl-detection-repo.git
-   cd your-asl-detection-repo
+   [git clone https://github.com/your-username/your-asl-detection-repo.git](https://github.com/AlterHoodie/SignoLingo.git)
+   cd SignoLingo
 2. Save the two folders `test` and  `train` from the Downloaded Dataset in a Folder called `ASL_Dataset`
 ***
 <p align='center'>You can Either directly run the SignoLingo.py File to play around with the Model, trying out various alphabet signs</p>
