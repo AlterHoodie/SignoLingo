@@ -35,7 +35,7 @@ Before running the project, make sure you have the following dependencies instal
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/your-username/your-asl-detection-repo.git](https://github.com/AlterHoodie/SignoLingo.git)
+   git clone https://github.com/AlterHoodie/SignoLingo.git
    cd SignoLingo
 2. Save the two folders `test` and  `train` from the Downloaded Dataset in a Folder called `ASL_Dataset`
 ***
